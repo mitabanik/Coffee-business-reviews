@@ -12,3 +12,10 @@ In this project, we extracted coffee business details and reviews from Yelp data
 In the dataset, the coffee shops were located in North America mostly in the United States.
 
 <img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/map.png" width="500" height="300">
+
+## Attributes vs Ratings
+
+We selected some of the attributes and services a restaurant might offer and compared them to their average ratings.
+
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/Ratings_vs_attr.png" width="600" height="300">
+
