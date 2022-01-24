@@ -41,9 +41,9 @@ For coffee shops with ratings less than 4, we ranked them as a "Low/Average" rat
 
 We used a Random forest model to predict these rankings. Below is the picture of feature importance using this model. We observe "review_counts" and "daily_hours" have significantly higher feature importances.
 
-<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/feature_importance.png" width="900" height="400"> 
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/feature_importance.png" width="900" height="600"> 
 
-We obtained an accuracy of 77% and f1_macro average of 76%. Here is the confusin matrix.
+We obtained an accuracy of 77% and f1_macro average of 76%. Here is the confusion matrix.
 
 <img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/confusion_matrix.png" width="400" height="400"> 
 
