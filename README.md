@@ -45,7 +45,7 @@ We used a Random forest model to predict these rankings. Below is the picture of
 
 We obtained an accuracy of 77% and f1_macro average of 76%. Here is the confusion matrix.
 
-<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/confusion_matrix.png" width="400" height="400"> 
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/confusion_matrix.png" width="300" height="300"> 
 
 
 
