@@ -44,7 +44,7 @@ We used a Random forest classifier model to predict these rankings. Below is the
 
 We obtained an accuracy of 76% and f1_macro average of 76%. Here is the normalized confusion matrix.
 
-<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/confusion_matrix.png" width="300" height="300"> 
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/confusion_matrix.png" width="400" height="300"> 
 
 
 
