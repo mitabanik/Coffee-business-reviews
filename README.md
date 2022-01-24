@@ -26,5 +26,14 @@ We selected some of the attributes and services a restaurant might offer and com
 
 <img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/Ratings_vs_attr.png" width="900" height="300">
 
+Restaurants with higher reviews counts tend to have higher ratings. Restaurants with less daily hours open tend to have higher ratings.
+
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/counts_vs_ratings.png" width="500" height="300"> |
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/daily_hours_ratings.png" width="500" height="300">
+
+
+
+
+
 
 
