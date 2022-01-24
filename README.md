@@ -17,5 +17,5 @@ In the dataset, the coffee shops were located in North America mostly in the Uni
 
 We selected some of the attributes and services a restaurant might offer and compared them to their average ratings.
 
-<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/Ratings_vs_attr.png" width="600" height="300">
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/Ratings_vs_attr.png" width="800" height="300">
 
