@@ -17,7 +17,7 @@ In the dataset, the coffee shops were located in North America mostly in the Uni
 
 Most of the coffee_Shops ahve ratings between 3.5 and 4.5.
 
-<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/countof_rest.png" width="400" height="300">
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/count_of_rests.png" width="400" height="300">
 
 
 ## Attributes vs Ratings
