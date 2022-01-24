@@ -7,3 +7,8 @@ In this project, we extracted coffee business details and reviews from Yelp data
 * coffee_business_analysis - exploratory analysis of coffee businesses and attributes;
 * Glove_model - Used pretrained Glove embeddings on coffee reviews and classified them into positive and negative/neutral reviews.
 
+## Locations of coffee shops across North America
+
+In the dataset, the coffee shops were located in North America mostly in the United States.
+
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/map.png width="300" height="400">
