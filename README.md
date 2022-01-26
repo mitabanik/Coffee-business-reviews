@@ -30,8 +30,8 @@ We extracted some of the attributes and services a restaurant might offer and co
 
 Coffee shops with higher reviews counts and those open for shorter daily hours tend to have higher ratings.
 
-<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/review_counts_vs_ratings.png" width="500" height="400">  </img>
-<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/daily_hours_ratings.png" width="500" height="400">
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/review_counts_vs_ratings.png" width="400" height="300">  </img>
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/daily_hours_ratings.png" width="400" height="300">
 
 
 ## Predicting ratings using attributes and features
