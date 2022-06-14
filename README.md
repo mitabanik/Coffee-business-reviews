@@ -1,6 +1,6 @@
 # Coffee-business-Analysis
 
-In this project, we extracted coffee business details and reviews from Yelp dataset. We analyzed attributes and services that a coffee shop might offer which can improve the ratings of their businesses.s
+In this project, we extracted coffee business details and reviews from Yelp dataset. We analyzed attributes and services that a coffee shop might offer which can improve the ratings of their businesses.
 
 # Summary 
 * coffee_business_rev_extraction - extracting business IDs and reviews from Yelp Dataset pertaining to coffee shops;
@@ -28,10 +28,10 @@ We extracted some of the attributes and services a restaurant might offer and co
 <img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/Ratings_vs_attr.png" width="900" height="300">
 
 
-Coffee shops with higher reviews counts generally and those open for shorter daily hours tend to have higher ratings.
+Coffee shops with higher reviews counts and those open for shorter daily hours tend to have higher ratings.
 
-<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/review_counts_vs_ratings.png" width="500" height="400">  </img>
-<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/daily_hours_ratings.png" width="500" height="400">
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/review_counts_vs_ratings.png" width="400" height="300">  </img>
+<img src="https://github.com/mitabanik/Coffee-business-reviews/blob/main/img/daily_hours_ratings.png" width="400" height="300">
 
 
 ## Predicting ratings using attributes and features
