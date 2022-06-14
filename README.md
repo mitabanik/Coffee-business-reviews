@@ -5,7 +5,7 @@ In this project, we extracted coffee business details and reviews from Yelp data
 # Summary 
 * coffee_business_rev_extraction - extracting business IDs and reviews from Yelp Dataset pertaining to coffee shops;
 * coffee_business_analysis - analysis of coffee business ratings;
-* Glove_model - Used pretrained Glove embeddings on coffee reviews and classified them into positive and negative/neutral reviews.
+* Glove_model - Used pretrained Glove embeddings on coffee reviews and used LSTM model to classify them into positive and negative/neutral reviews.
 
 ## Locations of coffee shops across North America
 
